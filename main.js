@@ -48,10 +48,24 @@ console.log(cart.items[1].title);
     console.log(c);
     c--
     console.log(c);
+// a = a +1 || a += 1;
+// a = a -1 || a -= 1;
 
+                //Comparison Operators
+console.log(5==5);
+console.log('hello' === 'helelo');
+console.log('hello' !== 'helelo');
+console.log('hello' == 'hello');
+console.log(5 === '5');
+console.log(5 === '5');
 
+const name = {
+        surname: 'Mukhsymov',
+        age: 45
+}
+console.log('age' in name)
 
-
+        
 
 
 
