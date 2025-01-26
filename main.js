@@ -41,7 +41,6 @@ console.log(cart.items[1].title);
     const d = 5;
     const b = 2;
     let c = 4;
-    console.log(d * b);
     console.log(d / b);
     console.log(d % b);
     console.log(d**b);
